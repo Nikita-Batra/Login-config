@@ -1,0 +1,25 @@
+{
+    "options": {
+      "logo": "/image?n=abstract-bg-4.svg",
+      "bgImage": "/image?n=abstract-bg-4.svg",
+      "title": "Document",
+      "description": "Document Workflow Platform",
+      "tncUrl": "/tnc",
+      "privacyPolicyUrl": "/privacy-policy",
+      "usernamePassword": {
+        "usernameLabel": "Email ID or Phone Number",
+        "passwordLabel": "Password",
+        "actionButtonText": "Sign In",
+        "forgotPasswordText": "Forgot Password?",
+        "actionButtonColour": ""
+      },
+      "forgotPassword": {
+        "formHeader": "",
+        "formDescription": "",
+        "usernameLabel": "",
+        "actionButtonText": "",
+        "actionButtonColour": "",
+        "otpButtonColor": ""
+      }
+    }
+  }
