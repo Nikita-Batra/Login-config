@@ -5,12 +5,9 @@
     "bgImage": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg",
     "title": "410 is the title of our application",
     "description": "410 is the description of our application",
-    "tncUrl": "https://policies.google.com/terms?hl=en",
-    "privacyPolicyUrl": "https://policies.google.com/terms?hl=en",
     "logoWidth": "500px",
     "formLogoHeight": "10px",
     "loginFlows": "up,otp",
     "entitlements": "ahdahdjakd,dbhjdmdd",
-    "footerText": "By proceeding, you agree to the <a class=\"sif-terms-of-service\" href=\"/terms-conditions\" target=\"_blank\">Terms of Service</a> and <a class=\"sif-privacy-policy\" href=\"/privacy-policy\" target=\"_blank\">Privacy Policy</a>.<br><br>Powered by reCAPTCHA. Google <a class=\"pr-link\" target=\"_blank\" rel=\"noreferrer\" href=\"https://policies.google.com/privacy\">Privacy Policy</a> & <a class=\"pr-link\" target=\"_blank\" rel=\"noreferrer\" href=\"https://policies.google.com/terms\">Terms of Service</a> apply."
-  }
+    "footerText":  "<p class=\"sign-in-form-tnc\">By proceeding, you agree to the <a class=\"sif-terms-of-service\" href=\"/tnc\" target=\"_blank\">Terms of Service</a> and <a class=\"sif-privacy-policy\" href=\"/privacy-policy\" target=\"_blank\">Privacy Policy</a>.</p><p class=\"recaptcha-cont\">Powered by reCAPTCHA. Google <a class=\"pr-link\" href=\"https://policies.google.com/privacy\" target=\"_blank\" rel=\"noreferrer\">Privacy Policy</a> &amp; <a class=\"pr-link\" href=\"https://policies.google.com/terms\" target=\"_blank\" rel=\"noreferrer\">Terms of Service</a> apply.</p>"
 }
