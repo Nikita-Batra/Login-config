@@ -8,5 +8,52 @@
     "logoWidth": "500px",
     "formLogoHeight": "10px",
     "loginFlows": "up,otp",
-    "entitlements": "ahdahdjakd,dbhjdmdd"  }
+    "entitlements": "ahdahdjakd,dbhjdmdd",
+    "usernamePassword": {
+      "usernameLabel": "Put your Username here ",
+      "passwordLabel": "put your password here ",
+      "actionButtonText": "Click here to sign in with UP",
+      "forgotPasswordText": "Forgot your Password?",
+      "actionButtonColour": "#000000"
+    },
+    "otpForm": {
+      "otpFormHeader": "OTP Sign In",
+      "otpFormDescription": "Enter your email",
+      "otpUsernameLabel": "Email ID ",
+      "otpPasswordLabel": "Enter OTP",
+      "otpSubmitButtonText": "Click to verify",
+      "otpSubmitButtonColour": "#000000"
+    },
+    "ssoForm": {
+      "ssoFormHeader": "Sign In with Single Sign-On",
+      "ssoFormDescription": "Sign in using credentials",
+      "ssoUsernameLabel": "Organization?",
+      "ssoSubmitButtonText": "Click here to continue with SSO",
+      "ssoSubmitButtonColour": "#000000"
+    },
+    "pubForm": {
+      "pubFormHeader": "Sign In As Guest",
+      "pubFormDescription": "Access publicly",
+      "pubUsernameLabel": "Username?",
+      "pubSubmitButtonText": "Continue signing in as Guest",
+      "pubSubmitButtonColour": "#000000"
+    },
+    "forgotPassword": {
+      "forgotPasswordText": "Back to Sign In Page",
+      "forgotPasswordColor": "#000000",
+      "forgetPasswordHeader": "Reset Your Password HERE",
+      "forgetPasswordDescription": "Check your mail",
+      "forgetPasswordUsernameLabel": "Email Id?",
+      "forgetPasswordButtonText": "Reset your Password to above text",
+      "forgetPasswordButtonColour": "#000000",
+      "forgetPasswordOtpColor": "#000000"
+    },
+    "switcher": {
+      "switcherOtpText": "OTP",
+      "switcherUpText": "Username Password",
+      "switcherSsoText": "SSO",
+      "switcherGuestText": "Guest"
+    }
+  }
 }
+
