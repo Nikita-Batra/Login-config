@@ -9,6 +9,6 @@
     "formLogoHeight": "10px",
     "loginFlows": "up,otp",
     "entitlements": "ahdahdjakd,dbhjdmdd",
-    "footerText": "<span class=\"sign-in-form-tnc\">By signing in, you agree to our <a class=\"sif-terms-of-service\" href=\"/tnc\" target=\"_blank\">Terms of Service</a> and <a class=\"sif-privacy-policy\" href=\"/privacy-policy\" target=\"_blank\">Privacy Policy</a>.</span><br><br><span class=\"recaptcha-cont\" style=\"display:block; margin-top:5px;\">This site is protected by reCAPTCHA and the Google <a class=\"pr-link\" href=\"https://policies.google.com/privacy\" target=\"_blank\" rel=\"noreferrer\">Privacy Policy</a> and <a class=\"pr-link\" href=\"https://policies.google.com/terms\" target=\"_blank\" rel=\"noreferrer\">Terms of Service</a> apply.</span>"
+    "footerText": "<span class=\"sign-in-form-tnc\">By signing in, you agree to our <a class=\"sif-terms-of-service\" href=\"/tnc\" target=\"_blank\">Terms of Service</a> and <a class=\"sif-privacy-policy\" href=\"/privacy-policy\" target=\"_blank\">Privacy Policy</a>.</span><br><span class=\"recaptcha-cont\" style=\"display:block; margin-top:5px;\">This site is protected by reCAPTCHA and the Google <a class=\"pr-link\" href=\"https://policies.google.com/privacy\" target=\"_blank\" rel=\"noreferrer\">Privacy Policy</a> and <a class=\"pr-link\" href=\"https://policies.google.com/terms\" target=\"_blank\" rel=\"noreferrer\">Terms of Service</a> apply.</span>"
   }
 }
