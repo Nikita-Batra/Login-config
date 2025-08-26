@@ -2,67 +2,6 @@
 "options": {
   "rootContainer": "login-module",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg",
-  "bgImage": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg",
-  "title": "Document Infrastructure tailor-made for Indian Business",
-  "description": "Accelerate and simplify the way your business flows with Leegality's unified eSign, eStamp and Document Workflow Platform",
-  "tncUrl": "/terms",
-  "privacyPolicyUrl": "/privacy",
-  "logoWidth": "200px",
-  "formLogoHeight": "60px",
-  "loginFlows": "UP,SSO,PUB,OTP",
-  "entitlements": "login,reset-password",
-  "footerText": "Footer Text , you accept our <a href='/terms' target='_blank' style='color: #00FF00;'>Terms & Conditions</a> and <a href='/privacy' target='_blank' style='color:   #00FF00;'>Privacy Policy</a>. This site is protected by reCAPTCHA.",
-  "usernameHint": "",
-  "usernamePassword": {
-    "usernameLabel": "UP_Username_Label",
-    "passwordLabel": "UP_Password_Label",
-    "actionButtonText": "UP_Submit_Button_Text",
-    "forgotPasswordText": "Forget_Password_text",
-    "actionButtonColour": "#00FF00"
-  },
-  "otpForm": {
-    "otpFormHeader": "OTP_Form_header",
-    "otpFormDescription": "OTP_Form_Description",
-    "otpUsernameLabel": "OTP_Username_Label",
-    "otpPasswordLabel": "Otp_Password_Label",
-    "otpSubmitButtonText": "OTP_Submit_Button_Text",
-    "otpSubmitButtonColour": "#00FF00"
-  },
-  "ssoForm": {
-    "ssoFormHeader": "SSO_form_header",
-    "ssoFormDescription": "SSO_Form_Description",
-    "ssoUsernameLabel": "SSO_user_name_label",
-    "ssoSubmitButtonText": "SSO_Submit_button_text",
-    "ssoSubmitButtonColour": "#00FF00"
-  },
-  "pubForm": {
-    "pubFormHeader": "PUB_FORM_HEADER",
-    "pubFormDescription": "PUB_Form_description",
-    "pubUsernameLabel": "PUB_Username_label",
-    "pubSubmitButtonText": "PUB_Submit_Button_Text",
-    "pubSubmitButtonColour": "#00FF00"
-  },
-  "forgotPassword": {
-    "formHeader": "Forget_Password_Header",
-    "formDescription": "Forget_Password_Description",
-    "usernameLabel": "Email_Address",
-    "actionButtonText": "Send_Reset_Link",
-    "actionButtonColour": "#00FF00",
-    "otpButtonColor": "#00FF00",
-    "forgotPasswordText": "Forget_Password_text",
-    "forgotPasswordColor": "#00FF00",
-    "forgetPasswordHeader": "Forget_Password_Header",
-    "forgetPasswordDescription": "Forget_Password_Description",
-    "forgetPasswordUsernameLabel": "Email_Address",
-    "forgetPasswordButtonText": "Send_Reset_Link",
-    "forgetPasswordButtonColour": "#00FF00",
-    "forgetPasswordOtpColor": "#00FF00"
-  },
-  "switcher": {
-    "switcherOtpText": "Switcher_OTP_Text",
-    "switcherUpText": "Switcher_UP_Text",
-    "switcherSsoText": "Switcher_SSO_text",
-    "switcherGuestText": "Switcher_Guest_text"
-  }
+  "bgImage": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg"
 }
 }
