@@ -8,7 +8,7 @@
     "loginFlows": "up,otp",
     "entitlements": "ahdahdjakd,dbhjdmdd",
     "usernamePassword": {
-      "upFormHeader" : "Sign in to Leegality"
+      "upFormHeader" : "Sign in to Leegality",
       "usernameLabel": "Put your Username here ",
       "passwordLabel": "put your password here ",
       "actionButtonText": "Click here to sign in with UP",
