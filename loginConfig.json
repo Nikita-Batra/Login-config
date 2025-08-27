@@ -7,8 +7,8 @@
     "formLogoHeight": "10px",
     "loginFlows": "up,otp",
     "entitlements": "entitlement1,entitlement2",
-    "logo" : "https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/410.svg",
-    "bgImage" : "https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/410.svg",
+    "logo": "https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/410.svg",
+    "bgImage": "https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/410.svg",
     "usernamePassword": {
       "upFormHeader": "Sign in to Leegality",
       "usernameLabel": "Put your Username here",
