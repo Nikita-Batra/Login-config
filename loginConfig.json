@@ -1,8 +1,6 @@
 {
   "options": {
     "rootContainer": "login-module",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg",
-    "bgImage": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg",
     "title": "410 is the title of our application",
     "description": "410 is the description of our application",
     "logoWidth": "500px",
