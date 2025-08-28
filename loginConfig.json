@@ -42,12 +42,12 @@
     "forgotPassword": {
       "forgotPasswordText": "Back to Sign In Page",
       "forgotPasswordColor": "#000000",
-      "forgotPasswordHeader": "Reset Your Password HERE",
-      "forgotPasswordDescription": "Check your mail",
-      "forgotPasswordUsernameLabel": "Email ID?",
-      "forgotPasswordButtonText": "Reset your password",
-      "forgotPasswordButtonColour": "#000000",
-      "forgotPasswordOtpColor": "#000000"
+      "forgetPasswordHeader": "Reset Your Password HERE",
+      "forgetPasswordDescription": "Check your mail",
+      "forgetPasswordUsernameLabel": "Email ID?",
+      "forgetPasswordButtonText": "Reset your password",
+      "forgetPasswordButtonColour": "#000000",
+      "forgetPasswordOtpColor": "#000000"
     },
     "switcher": {
       "switcherOtpText": "OTP",
