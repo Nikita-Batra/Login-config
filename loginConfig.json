@@ -4,7 +4,7 @@
     "title": "410 is the title of our application",
     "description": "410 is the description of our application",
     "logoWidth": "500px",
-    "formLogoHeight": "10px",
+    "formLogoHeight": "60px",
     "entitlements": "entitlement1,entitlement2",
     "logo": "https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/410.svg",
     "bgImage": "https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/410.svg",
