@@ -15,7 +15,6 @@
   "footerHtml": "",
   "usernameHint": "",
   "encryptUserCredentials": false,
-  "requestedModules": "entitlement1,entitlement2",
   "up": {
     "header": "Sign in to Leegality",
     "description": "",
