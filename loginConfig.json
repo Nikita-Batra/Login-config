@@ -1,58 +1,66 @@
 {
-  "options": {
-    "rootContainer": "login-module",
-    "title": "410 is the title of our application",
-    "description": "410 is the description of our application",
-    "logoWidth": "500px",
-    "formLogoHeight": "60px",
-    "entitlements": "entitlement1,entitlement2",
-    "logo": "https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/410.svg",
-    "bgImage": "https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/410.svg",
-    "usernamePassword": {
-      "upFormHeader": "Sign in to Leegality",
-      "usernameLabel": "Put your Username here",
-      "passwordLabel": "Put your password here",
-      "actionButtonText": "Click here to sign in with UP",
-      "forgotPasswordText": "Forgot your Password?",
-      "actionButtonColour": "#000000"
-    },
-    "otpForm": {
-      "otpFormHeader": "OTP Sign In",
-      "otpFormDescription": "Enter your email",
-      "otpUsernameLabel": "Email ID",
-      "otpPasswordLabel": "Enter OTP",
-      "otpSubmitButtonText": "Click to verify",
-      "otpSubmitButtonColour": "#000000"
-    },
-    "ssoForm": {
-      "ssoFormHeader": "Sign In with Single Sign-On",
-      "ssoFormDescription": "Sign in using credentials",
-      "ssoUsernameLabel": "Organization?",
-      "ssoSubmitButtonText": "Click here to continue with SSO",
-      "ssoSubmitButtonColour": "#000000"
-    },
-    "pubForm": {
-      "pubFormHeader": "Sign In As Guest",
-      "pubFormDescription": "Access publicly",
-      "pubUsernameLabel": "Username?",
-      "pubSubmitButtonText": "Continue signing in as Guest",
-      "pubSubmitButtonColour": "#000000"
-    },
-    "forgotPassword": {
-      "forgotPasswordText": "Back to Sign In Page",
-      "forgotPasswordColor": "#000000",
-      "forgetPasswordHeader": "Reset Your Password HERE",
-      "forgetPasswordDescription": "Check your mail",
-      "forgetPasswordUsernameLabel": "Email ID?",
-      "forgetPasswordButtonText": "Reset your password",
-      "forgetPasswordButtonColour": "#000000",
-      "forgetPasswordOtpColor": "#000000"
-    },
-    "switcher": {
-      "switcherOtpText": "OTP",
-      "switcherUpText": "Username Password",
-      "switcherSsoText": "SSO",
-      "switcherGuestText": "Guest"
-    }
+  "pageTitle": "410 is the title of our application",
+  "pageDescription": "410 is the description of our application",
+  "logo": {
+    "source": "https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/410.svg",
+    "width": "500px",
+    "height": "60px"
+  },
+  "bgImage": {
+    "source": "https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/410.svg"
+  },
+  "tncUrl": "",
+  "privacyPolicyUrl": "",
+  "footerText": "",
+  "footerHtml": "",
+  "usernameHint": "",
+  "encryptUserCredentials": false,
+  "requestedModules": "entitlement1,entitlement2",
+  "up": {
+    "header": "Sign in to Leegality",
+    "description": "",
+    "usernameLabel": "Put your Username here",
+    "passwordLabel": "Put your password here",
+    "actionButtonText": "Click here to sign in with UP",
+    "forgotPasswordText": "Forgot your Password?",
+    "actionButtonColour": "#000000"
+  },
+  "otp": {
+    "header": "OTP Sign In",
+    "description": "Enter your email",
+    "usernameLabel": "Email ID",
+    "passwordLabel": "Enter OTP",
+    "actionButtonText": "Click to verify",
+    "actionButtonColour": "#000000"
+  },
+  "sso": {
+    "header": "Sign In with Single Sign-On",
+    "description": "Sign in using credentials",
+    "usernameLabel": "Organization?",
+    "actionButtonText": "Click here to continue with SSO",
+    "actionButtonColour": "#000000"
+  },
+  "guest": {
+    "header": "Sign In As Guest",
+    "description": "Access publicly",
+    "usernameLabel": "Username?",
+    "actionButtonText": "Continue signing in as Guest",
+    "actionButtonColour": "#000000"
+  },
+  "forgetPassword": {
+    "forgotPasswordText": "Back to Sign In Page",
+    "forgotPasswordColor": "#000000",
+    "header": "Reset Your Password HERE",
+    "description": "Check your mail",
+    "usernameLabel": "Email ID?",
+    "actionButtonText": "Reset your password",
+    "actionButtonColour": "#000000",
+    "otpColor": "#000000"
+  },
+  "switcher": {
+    "switcherOtpText": "OTP",
+    "switcherUpText": "Username Password",
+    "switcherSsoText": "SSO",
+    "switcherGuestText": "Guest"
   }
 }
