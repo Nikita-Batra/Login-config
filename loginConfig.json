@@ -52,8 +52,8 @@
     "forgotPasswordText": "Back to Sign In Page",
     "forgotPasswordColor": "#000000",
     "forgetPasswordUsernameLabel": "Email ID?",
-    "actionButtonText": "Back to Sign In Page",
-    "actionButtonColour" : "#000000",
+    "forgetPasswordButtonText": "Back to Sign In Page",
+    "forgetPasswordButtonColour" : "#000000",
     "forgetPasswordOtpColor" : "#000000"
   },
   "switcher": {
