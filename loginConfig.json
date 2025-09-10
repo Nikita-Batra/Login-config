@@ -47,7 +47,7 @@
     "actionButtonText": "Continue signing in as Guest",
     "actionButtonColour": "#000000"
   },
-  "forgetPassword": {
+  "forgotPassword": {
     "forgotPasswordText": "Back to Sign In Page",
     "forgotPasswordColor": "#000000",
     "header": "Reset Your Password HERE",
