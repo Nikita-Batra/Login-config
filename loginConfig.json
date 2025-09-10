@@ -47,14 +47,14 @@
     "actionButtonColour": "#000000"
   },
   "forgotPassword": {
+    "forgetPasswordHeader": "Reset Your Password HERE",
+    "forgetPasswordDescription": "Check your mail",
     "forgotPasswordText": "Back to Sign In Page",
     "forgotPasswordColor": "#000000",
-    "header": "Reset Your Password HERE",
-    "description": "Check your mail",
-    "usernameLabel": "Email ID?",
-    "actionButtonText": "Reset your password",
-    "actionButtonColour": "#000000",
-    "otpColor": "#000000"
+    "forgetPasswordUsernameLabel": "Email ID?",
+    "actionButtonText": "Back to Sign In Page",
+    "actionButtonColour" : "#000000",
+    "forgetPasswordOtpColor" : "#000000"
   },
   "switcher": {
     "switcherOtpText": "OTP",
