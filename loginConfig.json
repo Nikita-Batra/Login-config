@@ -53,7 +53,7 @@
     "description": "Check your mail",
     "usernameLabel": "Username?",
     "actionButtonText": "Reset Password",
-    "actionButtonColour": "#7F56D9"
+    "actionButtonColour": "#000000"
   },
   "switcher": {
     "switcherOtpText": "OTP",
