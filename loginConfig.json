@@ -2,12 +2,12 @@
   "pageTitle": "410 is the title of our application",
   "pageDescription": "410 is the description of our application",
   "logo": {
-    "source": "https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/410.svg",
+    "source": "https://assets.consent.in/images/gradient-triangle.svg",
     "width": "500px",
     "height": "60px"
   },
   "bgImage": {
-    "source": "https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/410.svg"
+    "source": "https://assets.consent.in/images/gradient-triangle.svg"
   },
   "tncUrl": "",
   "privacyPolicyUrl": "",
