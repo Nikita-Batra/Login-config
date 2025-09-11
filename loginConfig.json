@@ -21,8 +21,7 @@
     "usernameLabel": "Put your Username here",
     "passwordLabel": "Put your password here",
     "actionButtonText": "Click here to sign in with UP",
-    "forgotPasswordText": "Forgot your Password?",
-    "actionButtonColour": "#000000"
+    "forgotPasswordText": "Forgot your Password?"
   },
   "otp": {
     "header": "OTP Sign In",
