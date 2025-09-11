@@ -54,7 +54,7 @@
     "usernameLabel": "Username?",
     "actionButtonText": "Reset Password",
     "actionButtonColour": "#000000",
-    "otpColor": "##000000"
+    "otpColor": "#000000"
   },
   "switcher": {
     "switcherOtpText": "OTP",
