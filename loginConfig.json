@@ -51,7 +51,7 @@
     "forgotPasswordColor": "#000000",
     "header": "Reset Your Password HERE",
     "description": "Check your mail",
-    "usernameLabel": "",
+    "usernameLabel": "Username?",
     "actionButtonText": "Reset Password",
     "actionButtonColour": "#7F56D9"
   },
