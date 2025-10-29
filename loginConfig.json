@@ -1,65 +1,62 @@
 {
-    "pageTitle": "410 is the title of our application",
-    "pageDescription": "410 is the description of our application",
-    "logo": {
-        "source": "https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/410.svg",
-        "width": "500px",
-        "height": "60px"
-    },
-    "bgImage": {
-        "source": "https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/410.svg"
-    },
-    "tncUrl": "",
-    "privacyPolicyUrl": "",
-    "footerText": "",
-    "footerHtml": "",
-    "usernameHint": "",
-    "encryptUserCredentials": false,
-    "up": {
-        "header": "Sign in to Leegality",
-        "description": "",
-        "usernameLabel": "Put your Username here",
-        "passwordLabel": "Put your password here",
-        "actionButtonText": "Click here to sign in with UP",
-        "forgotPasswordText": "Forgot your Password?",
-        "actionButtonColour": "#000000"
-    },
-    "otp": {
-        "header": "OTP Sign In",
-        "description": "Enter your email",
-        "usernameLabel": "Email ID",
-        "passwordLabel": "Enter OTP",
-        "actionButtonText": "Click to verify",
-        "actionButtonColour": "#000000"
-    },
-    "sso": {
-        "header": "Sign In with Single Sign-On",
-        "description": "Sign in using credentials",
-        "usernameLabel": "Organization?",
-        "actionButtonText": "Click here to continue with SSO",
-        "actionButtonColour": "#000000"
-    },
-    "guest": {
-        "header": "Sign In As Guest",
-        "description": "Access publicly",
-        "usernameLabel": "Username?",
-        "actionButtonText": "Continue signing in as Guest",
-        "actionButtonColour": "#000000"
-    },
-    "forgotPassword": {
-        "forgetPasswordHeader": "Reset Your Password HERE",
-        "forgetPasswordDescription": "Check your mail",
-        "forgotPasswordText": "Back to Sign In Page",
-        "forgotPasswordColor": "#000000",
-        "forgetPasswordUsernameLabel": "Email ID?",
-        "forgetPasswordButtonText": "Back to Sign In Page",
-        "forgetPasswordButtonColour": "#000000",
-        "forgetPasswordOtpColor": "#000000"
-    },
-    "switcher": {
-        "switcherOtpText": "OTP",
-        "switcherUpText": "Username Password",
-        "switcherSsoText": "SSO",
-        "switcherGuestText": "Guest"
+        "rootContainer": "login-module",
+        "logo": "/image?n=leegality-logo.svg",
+        "bgImage": "/image?n=abstract-bg-4.svg",
+        "title": "Document Infrastructure tailor-made for Indian Business",
+        "description": "Accelerate and simplify the way your business flows with Leegality's unified eSign, eStamp and Document Workflow Platform",
+        "tncUrl": "/tnc",
+        "privacyPolicyUrl": "/privacy-policy",
+        "logoWidth": "630px",
+        "formLogoHeight": "60px",
+        "loginFlows": "up,otp,sso,guest",
+        "entitlements": "login,reset-password",
+        "footerText": "",
+        "usernameHint": "",
+        "usernamePassword": {
+            "upFormHeader": "Sign in to Leegality",
+            "upFormDescription": "",
+            "usernameLabel": "Email ID or Phone Number",
+            "passwordLabel": "Password",
+            "actionButtonText": "Sign In",
+            "forgotPasswordText": "Forgot Password?",
+            "actionButtonColour": "#7F56D9"
+        },
+        "otpForm": {
+            "otpFormHeader": "Sign in with OTP",
+            "otpFormDescription": "Didn't set password or forgot your password? You can always sign in with OTP.",
+            "otpUsernameLabel": "Email ID or Phone Number",
+            "otpPasswordLabel": "Enter OTP",
+            "otpSubmitButtonText": "Send OTP",
+            "otpSubmitButtonColour": "#7F56D9"
+        },
+        "ssoForm": {
+            "ssoFormHeader": "Single Sign-On",
+            "ssoFormDescription": "Sign in using your organization credentials",
+            "ssoUsernameLabel": "Organization Domain",
+            "ssoSubmitButtonText": "Continue with SSO",
+            "ssoSubmitButtonColour": "#7F56D9"
+        },
+        "pubForm": {
+            "pubFormHeader": "Guest Access",
+            "pubFormDescription": "Access public documents and features",
+            "pubUsernameLabel": "Your Name",
+            "pubSubmitButtonText": "Continue as Guest",
+            "pubSubmitButtonColour": "#7F56D9"
+        },
+        "forgotPassword": {
+            "forgotPasswordText": "Back to Sign In",
+            "forgotPasswordColor": "",
+            "forgetPasswordHeader": "Reset Your Password",
+            "forgetPasswordDescription": "We will send you instructions to reset your password",
+            "forgetPasswordUsernameLabel": "Email Address",
+            "forgetPasswordButtonText": "Reset Password",
+            "forgetPasswordButtonColour": "",
+            "forgetPasswordOtpColor": "#7F56D9"
+        },
+        "switcher": {
+            "switcherOtpText": "Sign in with OTP",
+            "switcherUpText": "Sign in with Password",
+            "switcherSsoText": "Sign in with SSO",
+            "switcherGuestText": "Continue as Guest"
+        }
     }
-}
